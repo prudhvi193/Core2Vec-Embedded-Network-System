@@ -1,4 +1,4 @@
-# DataTechies-Core2Vec-
+# DataTechies-Core2Vec
 Core2Vec Project Details
 
 Softwares Used:
