@@ -2,7 +2,7 @@
 
 This project was developed as part of my Masters course study in Principles of Database Systems.
 
-Contributions: Prudhviraj Sheela, Aman Masipeddi
+Authors: Prudhviraj Sheela, Aman Masipeddi
 
 This project is an implementation based project which is been inherited from a research paper published by authors "Soumya Sarkar, Aditya Bhagawat, Animesh Mukherjee" on the concept of Core2Vec. Using the implementation techniques suggested in that particular paper I had added some additional techniques to measure different performance metrics and analyze the Core2Vec system based on the results it generates within the embedding network.
 
