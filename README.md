@@ -8,7 +8,7 @@ This project is an implementation based project which is been inherited from a r
 
 Softwares Used:
 1. Language Used: Python 3.7
-2. IDE Used: Spyder for Anaconda
+2. IDE Used: Jupyter Notebook
 3. Libraries Used: Networkx, Numpy, Gensim Models, Scipy
    (Command Used to install the libraries on command prompt: pip install networkx numpy, gensim, scipy) --> For Windows System
 
