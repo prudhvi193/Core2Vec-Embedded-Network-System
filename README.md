@@ -1,6 +1,8 @@
-# DataTechies-Core2Vec
+# Core2Vec
 
 This project was developed as part of my Masters course study in Principles of Database Systems.
+
+Group Name: Data Techies
 
 Authors: Prudhviraj Sheela, Aman Masipeddi
 
