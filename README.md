@@ -15,10 +15,8 @@ Softwares Used:
    (Command Used to install the libraries on command prompt: pip install networkx numpy, gensim, scipy) --> For Windows System
 
 Program Filename:
-
-pgm1core2vec.py : Consists the algorithm implementation for Core2Vec
-
-pgm2.py : Consists the python code for main program calling the core2vec algorithm
+1. pgm1core2vec.py : Consists the algorithm implementation for Core2Vec
+2. pgm2.py : Consists the python code for main program calling the core2vec algorithm
 
 Input Data Files:
 Word Association Projects: University of South Florida Word Association Projects & Small World of Word Projects (SWOW).
